@@ -1,2 +1,2 @@
 # JS-in-depth
-code rep for js
+code repo for js
